@@ -1,0 +1,4004 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Metadata": {
+        "AWS::CloudFormation::Designer": {
+            "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db": {
+                "size": {
+                    "width": 820,
+                    "height": 1030
+                },
+                "position": {
+                    "x": -1740,
+                    "y": 780
+                },
+                "z": 0,
+                "embeds": [
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "6315f18b-00d9-48d9-a24a-6c0f15e51837",
+                    "87deb849-ef02-4779-a9cb-f898bd024777",
+                    "228dc316-fe98-4738-a7db-2cd5e8c52672",
+                    "4812a870-fe82-41af-8a76-cb3a79dab228"
+                ]
+            },
+            "50ffdcc2-47f6-42ce-9f60-865f06fe65f3": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1290,
+                    "y": 940
+                },
+                "z": 2,
+                "parent": "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                "embeds": [],
+                "isassociatedwith": [
+                    "87deb849-ef02-4779-a9cb-f898bd024777",
+                    "747159aa-c5ff-4162-abba-950ca0d76c24"
+                ],
+                "iscontainedinside": [
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5"
+                ],
+                "dependson": [
+                    "b8892cd9-9635-4ff2-91d5-d85514e6df66"
+                ]
+            },
+            "87deb849-ef02-4779-a9cb-f898bd024777": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1120,
+                    "y": 1280
+                },
+                "z": 1,
+                "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                "embeds": [],
+                "isassociatedwith": [
+                    "6315f18b-00d9-48d9-a24a-6c0f15e51837"
+                ],
+                "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
+                ]
+            },
+            "b78ee57c-a314-4340-863f-93929301b4c8": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1940,
+                    "y": 1020
+                },
+                "z": 0,
+                "embeds": []
+            },
+            "375302f0-b169-45b5-9ec5-354af924d384": {
+                "source": {
+                    "id": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
+                },
+                "target": {
+                    "id": "b78ee57c-a314-4340-863f-93929301b4c8"
+                },
+                "z": 0
+            },
+            "6315f18b-00d9-48d9-a24a-6c0f15e51837": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1020,
+                    "y": 1280
+                },
+                "z": 1,
+                "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                "embeds": [],
+                "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
+                ]
+            },
+            "b8cb06e1-0fb1-4689-972a-c4dfed8172e5": {
+                "size": {
+                    "width": 500,
+                    "height": 240
+                },
+                "position": {
+                    "x": -1710,
+                    "y": 800
+                },
+                "z": 1,
+                "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                "embeds": [
+                    "a1a12bcb-4347-4ea4-9157-cf71eee6fab0",
+                    "747159aa-c5ff-4162-abba-950ca0d76c24",
+                    "4a7e15da-6d1f-436f-b80e-f4b602e73676",
+                    "50ffdcc2-47f6-42ce-9f60-865f06fe65f3"
+                ],
+                "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
+                ]
+            },
+            "89e00963-011a-4042-8bd9-65a7778ff788": {
+                "size": {
+                    "width": 140,
+                    "height": 118.93242640475887
+                },
+                "position": {
+                    "x": -1460,
+                    "y": 1090
+                },
+                "z": 1,
+                "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                "embeds": [
+                    "b8892cd9-9635-4ff2-91d5-d85514e6df66"
+                ],
+                "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
+                ]
+            },
+            "b8892cd9-9635-4ff2-91d5-d85514e6df66": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1410,
+                    "y": 1120
+                },
+                "z": 2,
+                "parent": "89e00963-011a-4042-8bd9-65a7778ff788",
+                "embeds": [],
+                "isassociatedwith": [
+                    "b78ee57c-a314-4340-863f-93929301b4c8"
+                ],
+                "iscontainedinside": [
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788"
+                ],
+                "dependson": [
+                    "375302f0-b169-45b5-9ec5-354af924d384"
+                ]
+            },
+            "158bb737-8f12-433b-84d4-f613b4126d41": {
+                "source": {
+                    "id": "89e00963-011a-4042-8bd9-65a7778ff788"
+                },
+                "target": {
+                    "id": "b8cb06e1-0fb1-4689-972a-c4dfed8172e5"
+                },
+                "z": 1
+            },
+            "4812a870-fe82-41af-8a76-cb3a79dab228": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1160,
+                    "y": 960
+                },
+                "z": 1,
+                "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                "embeds": []
+            },
+            "228dc316-fe98-4738-a7db-2cd5e8c52672": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1160,
+                    "y": 1080
+                },
+                "z": 1,
+                "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                "embeds": [],
+                "isassociatedwith": [
+                    "50ffdcc2-47f6-42ce-9f60-865f06fe65f3"
+                ]
+            },
+            "b994eebe-5972-48c6-8362-8bac247c91f8": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1250,
+                    "y": 1580
+                },
+                "z": 2,
+                "parent": "570c8e62-6914-4e6e-93d6-3795567ff895",
+                "embeds": [],
+                "isassociatedwith": [
+                    "87deb849-ef02-4779-a9cb-f898bd024777",
+                    "6cd71ed5-c4b4-4d13-85d1-571c987ca338"
+                ],
+                "iscontainedinside": [
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895"
+                ]
+            },
+            "5036dd5c-2c61-4a55-a067-fbbc8fc4a556": {
+                "size": {
+                    "width": 140,
+                    "height": 140
+                },
+                "position": {
+                    "x": -1510,
+                    "y": 1280
+                },
+                "z": 1,
+                "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                "embeds": [
+                    "d3218f88-2117-4a19-9c0f-092243d6a7dd"
+                ]
+            },
+            "d3218f88-2117-4a19-9c0f-092243d6a7dd": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1470,
+                    "y": 1320
+                },
+                "z": 2,
+                "parent": "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                "embeds": [],
+                "iscontainedinside": [
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556"
+                ]
+            },
+            "6cd71ed5-c4b4-4d13-85d1-571c987ca338": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1320,
+                    "y": 1620
+                },
+                "z": 2,
+                "parent": "570c8e62-6914-4e6e-93d6-3795567ff895",
+                "embeds": [],
+                "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
+                ]
+            },
+            "4a7e15da-6d1f-436f-b80e-f4b602e73676": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1480,
+                    "y": 910
+                },
+                "z": 2,
+                "parent": "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                "embeds": [],
+                "isassociatedwith": [
+                    "a1a12bcb-4347-4ea4-9157-cf71eee6fab0"
+                ]
+            },
+            "747159aa-c5ff-4162-abba-950ca0d76c24": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1390,
+                    "y": 940
+                },
+                "z": 2,
+                "parent": "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                "embeds": [],
+                "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
+                ]
+            },
+            "570c8e62-6914-4e6e-93d6-3795567ff895": {
+                "size": {
+                    "width": 380,
+                    "height": 200
+                },
+                "position": {
+                    "x": -1550,
+                    "y": 1500
+                },
+                "z": 1,
+                "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                "embeds": [
+                    "89ef95e4-e8b5-4f29-81c4-f83d9866af4a",
+                    "6cd71ed5-c4b4-4d13-85d1-571c987ca338",
+                    "c75a02bc-534d-4f83-a23d-145b1d838ba5",
+                    "b994eebe-5972-48c6-8362-8bac247c91f8"
+                ],
+                "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
+                ]
+            },
+            "a1a12bcb-4347-4ea4-9157-cf71eee6fab0": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1640,
+                    "y": 920
+                },
+                "z": 2,
+                "parent": "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                "embeds": [],
+                "isassociatedwith": [
+                    "7f5d5c64-4254-44ea-96ac-dcbe7eebd635",
+                    "61ac8b8c-9f73-4777-b96c-e1a29960654e"
+                ],
+                "iscontainedinside": [
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5"
+                ]
+            },
+            "89ef95e4-e8b5-4f29-81c4-f83d9866af4a": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1510,
+                    "y": 1600
+                },
+                "z": 2,
+                "parent": "570c8e62-6914-4e6e-93d6-3795567ff895",
+                "embeds": [],
+                "isassociatedwith": [
+                    "6e35a079-e7a9-4679-8913-0f37f42823e8"
+                ],
+                "iscontainedinside": [
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895"
+                ]
+            },
+            "c75a02bc-534d-4f83-a23d-145b1d838ba5": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -1400,
+                    "y": 1550
+                },
+                "z": 2,
+                "parent": "570c8e62-6914-4e6e-93d6-3795567ff895",
+                "embeds": [],
+                "isassociatedwith": [
+                    "89ef95e4-e8b5-4f29-81c4-f83d9866af4a"
+                ]
+            }
+        }
+    },
+    "Resources": {
+        "LaunchConfiguration": {
+            "Type": "AWS::AutoScaling::LaunchConfiguration",
+            "Properties": {
+                "ImageId": {
+                    "Fn::FindInMap": [
+                        "ECImages",
+                        "ImageId",
+                        "AmazonLinux2"
+                    ]
+                },
+                "InstanceType": {
+                    "Fn::If": [
+                        "ProdResources",
+                        {
+                            "Fn::FindInMap": [
+                                "InstanceType",
+                                "Prod",
+                                "Instance"
+                            ]
+                        },
+                        {
+                            "Fn::FindInMap": [
+                                "InstanceType",
+                                "Test",
+                                "Instance"
+                            ]
+                        }
+                    ]
+                },
+                "SecurityGroups": [
+                    {
+                        "Ref": "SecurityGroup"
+                    }
+                ],
+                "AssociatePublicIpAddress": "true",
+                "KeyName": {
+                    "Ref": "KeyName"
+                },
+                "UserData": {
+                    "Fn::Base64": {
+                        "Fn::Join": [
+                            "",
+                            [
+                                "#!/bin/bash",
+                                "yum install cloud-init",
+                                "yum install httpd -y",
+                                "service httpd start",
+                                "mkdir -p /var/www/html",
+                                "cd /var/www/html/",
+                                "echo \"Ze worldo!\" > /var/www/html/index.html"
+                            ]
+                        ]
+                    }
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "87deb849-ef02-4779-a9cb-f898bd024777"
+                },
+                "AWS::CloudFormation::Init": {
+                    "configSets": {
+                        "All": [
+                            "ConfigureSampleApp"
+                        ]
+                    },
+                    "ConfigureSampleApp": {
+                        "packages": {
+                            "yum": {
+                                "httpd": []
+                            }
+                        },
+                        "files": {
+                            "/var/www/html/index.html": {
+                                "content": {
+                                    "Fn::Join": [
+                                        "\n",
+                                        [
+                                            "<h1>Congratulations, you have successfully launched the AWS CloudFormation sample.</h1>"
+                                        ]
+                                    ]
+                                },
+                                "mode": "000644",
+                                "owner": "root",
+                                "group": "root"
+                            }
+                        },
+                        "services": {
+                            "sysvinit": {
+                                "httpd": {
+                                    "enabled": "true",
+                                    "ensureRunning": "true"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Vpc": {
+            "Type": "AWS::EC2::VPC",
+            "Properties": {
+                "EnableDnsSupport": "true",
+                "EnableDnsHostnames": "true",
+                "CidrBlock": "10.0.0.0/16"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
+                }
+            }
+        },
+        "SecurityGroup": {
+            "Type": "AWS::EC2::SecurityGroup",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "Vpc"
+                },
+                "GroupDescription": "Public ELB Security Group with HTTP access on port 80 from the internet",
+                "SecurityGroupIngress": [
+                    {
+                        "IpProtocol": "tcp",
+                        "FromPort": "80",
+                        "ToPort": "80"
+                    },
+                    {
+                        "IpProtocol": "tcp",
+                        "FromPort": "22",
+                        "ToPort": "22",
+                        "CidrIp": "0.0.0.0/0"
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "6315f18b-00d9-48d9-a24a-6c0f15e51837"
+                }
+            }
+        },
+        "InetGateway": {
+            "Type": "AWS::EC2::InternetGateway",
+            "Properties": {},
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "b78ee57c-a314-4340-863f-93929301b4c8"
+                }
+            }
+        },
+        "CoolRouteTable": {
+            "Type": "AWS::EC2::RouteTable",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "Vpc"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "89e00963-011a-4042-8bd9-65a7778ff788"
+                }
+            }
+        },
+        "CoolRoute": {
+            "Type": "AWS::EC2::Route",
+            "Properties": {
+                "RouteTableId": {
+                    "Ref": "CoolRouteTable"
+                },
+                "GatewayId": {
+                    "Ref": "InetGateway"
+                },
+                "DestinationCidrBlock": "0.0.0.0/0"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "b8892cd9-9635-4ff2-91d5-d85514e6df66"
+                }
+            },
+            "DependsOn": [
+                "VpcGatewayAttachment"
+            ]
+        },
+        "EC2SRTA2QWW2": {
+            "Type": "AWS::EC2::SubnetRouteTableAssociation",
+            "Properties": {
+                "RouteTableId": {
+                    "Ref": "CoolRouteTable"
+                },
+                "SubnetId": {
+                    "Ref": "BlueSubnet"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "158bb737-8f12-433b-84d4-f613b4126d41"
+                }
+            }
+        },
+        "BlueAutoScalingGroup": {
+            "Type": "AWS::AutoScaling::AutoScalingGroup",
+            "Properties": {
+                "LaunchConfigurationName": {
+                    "Ref": "LaunchConfiguration"
+                },
+                "MinSize": "1",
+                "MaxSize": "5",
+                "DesiredCapacity": {
+                    "Fn::If": [
+                        "ProdResources",
+                        "2",
+                        "3"
+                    ]
+                },
+                "VPCZoneIdentifier": [
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    }
+                ],
+                "Tags": [
+                    {
+                        "Key": "Environment",
+                        "Value": "Production",
+                        "PropagateAtLaunch": "True"
+                    }
+                ],
+                "TargetGroupARNs": [
+                    {
+                        "Ref": "BlueTargetGroupELB"
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "50ffdcc2-47f6-42ce-9f60-865f06fe65f3"
+                }
+            },
+            "DependsOn": [
+                "CoolRoute"
+            ]
+        },
+        "GreenAutoScalingGroup": {
+            "Type": "AWS::AutoScaling::AutoScalingGroup",
+            "Properties": {
+                "VPCZoneIdentifier": [
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "GreenSubnet"
+                    },
+                    {
+                        "Ref": "GreenSubnet"
+                    },
+                    {
+                        "Ref": "GreenSubnet"
+                    },
+                    {
+                        "Ref": "GreenSubnet"
+                    },
+                    {
+                        "Ref": "GreenSubnet"
+                    },
+                    {
+                        "Ref": "GreenSubnet"
+                    },
+                    {
+                        "Ref": "GreenSubnet"
+                    },
+                    {
+                        "Ref": "GreenSubnet"
+                    }
+                ],
+                "LaunchConfigurationName": {
+                    "Ref": "LaunchConfiguration"
+                },
+                "MinSize": "1",
+                "MaxSize": "5",
+                "DesiredCapacity": {
+                    "Fn::If": [
+                        "ProdResources",
+                        "2",
+                        "3"
+                    ]
+                },
+                "Tags": [
+                    {
+                        "Key": "Environment",
+                        "Value": "Testing",
+                        "PropagateAtLaunch": "True"
+                    }
+                ],
+                "TargetGroupARNs": [
+                    {
+                        "Ref": "GreenTargetGroupELB"
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "b994eebe-5972-48c6-8362-8bac247c91f8"
+                }
+            }
+        },
+        "BlueScalingPolicy": {
+            "Type": "AWS::AutoScaling::ScalingPolicy",
+            "Properties": {
+                "AdjustmentType": "ExactCapacity",
+                "AutoScalingGroupName": {
+                    "Ref": "BlueAutoScalingGroup"
+                },
+                "ScalingAdjustment": "2"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "228dc316-fe98-4738-a7db-2cd5e8c52672"
+                }
+            }
+        },
+        "BlueCPUAlarm": {
+            "Type": "AWS::CloudWatch::Alarm",
+            "Properties": {
+                "AlarmDescription": "CPU alarm for my instance",
+                "AlarmActions": [
+                    {
+                        "Ref": "BlueScalingPolicy"
+                    }
+                ],
+                "MetricName": "CPUUtilization",
+                "Namespace": "AWS/EC2",
+                "Statistic": "Average",
+                "Period": "60",
+                "EvaluationPeriods": "3",
+                "Threshold": "90",
+                "ComparisonOperator": "GreaterThanThreshold",
+                "Dimensions": [
+                    {
+                        "Name": "AutoScalingGroupName",
+                        "Value": {
+                            "Ref": "BlueAutoScalingGroup"
+                        }
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "4812a870-fe82-41af-8a76-cb3a79dab228"
+                }
+            }
+        },
+        "HostedZone": {
+            "Type": "AWS::Route53::HostedZone",
+            "Properties": {
+                "Name": "onichan.tk"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "5036dd5c-2c61-4a55-a067-fbbc8fc4a556"
+                }
+            }
+        },
+        "RecordGroup": {
+            "Type": "AWS::Route53::RecordSetGroup",
+            "Properties": {
+                "HostedZoneId": {
+                    "Ref": "HostedZone"
+                },
+                "Comment": "Weighted RR for blue/green deploy",
+                "RecordSets": [
+                    {
+                        "Name": "wwww.onichan.tk.",
+                        "Type": "CNAME",
+                        "TTL": "900",
+                        "SetIdentifier": "Blue",
+                        "Weight": "4",
+                        "ResourceRecords": [
+                            {
+                                "Fn::GetAtt": [
+                                    "BlueLoadBalancer",
+                                    "DNSName"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "www.onichan.tk.",
+                        "Type": "CNAME",
+                        "TTL": "900",
+                        "SetIdentifier": "Green",
+                        "Weight": "6",
+                        "ResourceRecords": [
+                            {
+                                "Fn::GetAtt": [
+                                    "GreenLoadBalancer",
+                                    "DNSName"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "d3218f88-2117-4a19-9c0f-092243d6a7dd"
+                }
+            }
+        },
+        "VpcGatewayAttachment": {
+            "Type": "AWS::EC2::VPCGatewayAttachment",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "Vpc"
+                },
+                "InternetGatewayId": {
+                    "Ref": "InetGateway"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "375302f0-b169-45b5-9ec5-354af924d384"
+                }
+            }
+        },
+        "GreenTargetGroupELB": {
+            "Type": "AWS::ElasticLoadBalancingV2::TargetGroup",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "Vpc"
+                },
+                "Port": "80",
+                "Protocol": "HTTP"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "6cd71ed5-c4b4-4d13-85d1-571c987ca338"
+                }
+            }
+        },
+        "BlueTargetGroupELB": {
+            "Type": "AWS::ElasticLoadBalancingV2::TargetGroup",
+            "Properties": {
+                "Port": "80",
+                "Protocol": "HTTP",
+                "VpcId": {
+                    "Ref": "Vpc"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "747159aa-c5ff-4162-abba-950ca0d76c24"
+                }
+            }
+        },
+        "BlueLoadBalancer": {
+            "Type": "AWS::ElasticLoadBalancingV2::LoadBalancer",
+            "Properties": {
+                "Subnets": [
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "GreenSubnet"
+                    }
+                ],
+                "Scheme": "internet-facing"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "a1a12bcb-4347-4ea4-9157-cf71eee6fab0"
+                }
+            }
+        },
+        "GreenLoadBalancer": {
+            "Type": "AWS::ElasticLoadBalancingV2::LoadBalancer",
+            "Properties": {
+                "Subnets": [
+                    {
+                        "Ref": "BlueSubnet"
+                    },
+                    {
+                        "Ref": "GreenSubnet"
+                    }
+                ],
+                "Scheme": "internet-facing"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "89ef95e4-e8b5-4f29-81c4-f83d9866af4a"
+                }
+            }
+        },
+        "BlueELBListener": {
+            "Type": "AWS::ElasticLoadBalancingV2::Listener",
+            "Properties": {
+                "Port": "80",
+                "Protocol": "HTTP",
+                "DefaultActions": [
+                    {
+                        "Type": "forward",
+                        "TargetGroupArn": {
+                            "Ref": "BlueTargetGroupELB"
+                        }
+                    }
+                ],
+                "LoadBalancerArn": {
+                    "Ref": "BlueLoadBalancer"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "4a7e15da-6d1f-436f-b80e-f4b602e73676"
+                }
+            }
+        },
+        "GreenELBListener": {
+            "Type": "AWS::ElasticLoadBalancingV2::Listener",
+            "Properties": {
+                "Port": "80",
+                "Protocol": "HTTP",
+                "DefaultActions": [
+                    {
+                        "Type": "forward",
+                        "TargetGroupArn": {
+                            "Ref": "GreenTargetGroupELB"
+                        }
+                    }
+                ],
+                "LoadBalancerArn": {
+                    "Ref": "GreenLoadBalancer"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "c75a02bc-534d-4f83-a23d-145b1d838ba5"
+                }
+            }
+        },
+        "GreenSubnet": {
+            "Type": "AWS::EC2::Subnet",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "Vpc"
+                },
+                "CidrBlock": "10.0.0.64/26",
+                "AvailabilityZone": "us-east-1b"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "570c8e62-6914-4e6e-93d6-3795567ff895"
+                }
+            }
+        },
+        "BlueSubnet": {
+            "Type": "AWS::EC2::Subnet",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "Vpc"
+                },
+                "CidrBlock": "10.0.0.0/26",
+                "AvailabilityZone": "us-east-1a"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "b8cb06e1-0fb1-4689-972a-c4dfed8172e5"
+                }
+            }
+        }
+    },
+    "Mappings": {
+        "WebServerCount": {
+            "Prod": {
+                "Count": "2"
+            },
+            "Test": {
+                "Count": "3"
+            }
+        },
+        "ECImages": {
+            "ImageId": {
+                "AmazonLinux2": "ami-0ff8a91507f77f867"
+            }
+        },
+        "InstanceType": {
+            "Prod": {
+                "Instance": "t2.micro"
+            },
+            "Test": {
+                "Instance": "t2.micro"
+            }
+        }
+    },
+    "Parameters": {
+        "Environment": {
+            "Description": "Choose the environment to deploy",
+            "Type": "String",
+            "Default": "Test",
+            "AllowedValues": [
+                "Test",
+                "Prod"
+            ]
+        },
+        "KeyName": {
+            "Description": "SSH key name",
+            "Type": "AWS::EC2::KeyPair::KeyName",
+            "ConstraintDescription": "must be a name of existing ec2 key pair"
+        }
+    },
+    "Conditions": {
+        "ProdResources": {
+            "Fn::Equals": [
+                {
+                    "Ref": "Environment"
+                },
+                "Prod"
+            ]
+        }
+    },
+    "Outputs": {
+        "URL": {
+            "Value": {
+                "Fn::Join": [
+                    "",
+                    [
+                        "http://"
+                    ]
+                ]
+            }
+        }
+    }
+}
