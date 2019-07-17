@@ -294,6 +294,15 @@
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5"
                 ],
                 "dependson": [
@@ -624,6 +633,15 @@
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
                 ]
             },
@@ -639,12 +657,21 @@
                 "z": 1,
                 "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                 "embeds": [
-                    "a1a12bcb-4347-4ea4-9157-cf71eee6fab0",
                     "747159aa-c5ff-4162-abba-950ca0d76c24",
+                    "a1a12bcb-4347-4ea4-9157-cf71eee6fab0",
                     "4a7e15da-6d1f-436f-b80e-f4b602e73676",
                     "50ffdcc2-47f6-42ce-9f60-865f06fe65f3"
                 ],
                 "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
@@ -1158,6 +1185,15 @@
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
                 ]
             },
@@ -1177,6 +1213,15 @@
                     "b78ee57c-a314-4340-863f-93929301b4c8"
                 ],
                 "iscontainedinside": [
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
                     "89e00963-011a-4042-8bd9-65a7778ff788",
                     "89e00963-011a-4042-8bd9-65a7778ff788",
                     "89e00963-011a-4042-8bd9-65a7778ff788",
@@ -1463,7 +1508,7 @@
                 },
                 "position": {
                     "x": -1250,
-                    "y": 1580
+                    "y": 1550
                 },
                 "z": 2,
                 "parent": "570c8e62-6914-4e6e-93d6-3795567ff895",
@@ -1676,6 +1721,15 @@
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895"
                 ]
             },
@@ -1707,6 +1761,15 @@
                 "parent": "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
                 "embeds": [],
                 "iscontainedinside": [
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
@@ -1933,12 +1996,21 @@
                 "z": 1,
                 "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                 "embeds": [
-                    "89ef95e4-e8b5-4f29-81c4-f83d9866af4a",
                     "6cd71ed5-c4b4-4d13-85d1-571c987ca338",
+                    "89ef95e4-e8b5-4f29-81c4-f83d9866af4a",
                     "c75a02bc-534d-4f83-a23d-145b1d838ba5",
                     "b994eebe-5972-48c6-8362-8bac247c91f8"
                 ],
                 "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
@@ -2034,13 +2106,23 @@
                 "embeds": [],
                 "isassociatedwith": [
                     "7f5d5c64-4254-44ea-96ac-dcbe7eebd635",
-                    "61ac8b8c-9f73-4777-b96c-e1a29960654e"
+                    "61ac8b8c-9f73-4777-b96c-e1a29960654e",
+                    "6315f18b-00d9-48d9-a24a-6c0f15e51837"
                 ],
                 "iscontainedinside": [
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
@@ -2125,13 +2207,23 @@
                 "parent": "570c8e62-6914-4e6e-93d6-3795567ff895",
                 "embeds": [],
                 "isassociatedwith": [
-                    "6e35a079-e7a9-4679-8913-0f37f42823e8"
+                    "6e35a079-e7a9-4679-8913-0f37f42823e8",
+                    "6315f18b-00d9-48d9-a24a-6c0f15e51837"
                 ],
                 "iscontainedinside": [
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
@@ -2397,696 +2489,6 @@
                 "VPCZoneIdentifier": [
                     {
                         "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
                     }
                 ],
                 "Tags": [
@@ -3115,543 +2517,6 @@
             "Type": "AWS::AutoScaling::AutoScalingGroup",
             "Properties": {
                 "VPCZoneIdentifier": [
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "BlueSubnet"
-                    },
-                    {
-                        "Ref": "GreenSubnet"
-                    },
-                    {
-                        "Ref": "GreenSubnet"
-                    },
-                    {
-                        "Ref": "GreenSubnet"
-                    },
-                    {
-                        "Ref": "GreenSubnet"
-                    },
-                    {
-                        "Ref": "GreenSubnet"
-                    },
-                    {
-                        "Ref": "GreenSubnet"
-                    },
-                    {
-                        "Ref": "GreenSubnet"
-                    },
                     {
                         "Ref": "GreenSubnet"
                     }
@@ -3847,7 +2712,12 @@
                         "Ref": "GreenSubnet"
                     }
                 ],
-                "Scheme": "internet-facing"
+                "Scheme": "internet-facing",
+                "SecurityGroups": [
+                    {
+                        "Ref": "SecurityGroup"
+                    }
+                ]
             },
             "Metadata": {
                 "AWS::CloudFormation::Designer": {
@@ -3860,13 +2730,18 @@
             "Properties": {
                 "Subnets": [
                     {
-                        "Ref": "BlueSubnet"
+                        "Ref": "GreenSubnet"
                     },
                     {
-                        "Ref": "GreenSubnet"
+                        "Ref": "BlueSubnet"
                     }
                 ],
-                "Scheme": "internet-facing"
+                "Scheme": "internet-facing",
+                "SecurityGroups": [
+                    {
+                        "Ref": "SecurityGroup"
+                    }
+                ]
             },
             "Metadata": {
                 "AWS::CloudFormation::Designer": {
