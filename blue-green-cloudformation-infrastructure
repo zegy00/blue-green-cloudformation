@@ -14,8 +14,8 @@
                 "z": 0,
                 "embeds": [
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
-                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "89e00963-011a-4042-8bd9-65a7778ff788",
                     "6315f18b-00d9-48d9-a24a-6c0f15e51837",
                     "87deb849-ef02-4779-a9cb-f898bd024777",
@@ -29,11 +29,10 @@
                     "height": 60
                 },
                 "position": {
-                    "x": -1290,
-                    "y": 940
+                    "x": -1310,
+                    "y": 490
                 },
-                "z": 2,
-                "parent": "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                "z": 0,
                 "embeds": [],
                 "isassociatedwith": [
                     "87deb849-ef02-4779-a9cb-f898bd024777",
@@ -303,7 +302,9 @@
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
-                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5"
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895"
                 ],
                 "dependson": [
                     "b8892cd9-9635-4ff2-91d5-d85514e6df66"
@@ -642,6 +643,15 @@
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
                 ]
             },
@@ -656,13 +666,17 @@
                 },
                 "z": 1,
                 "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
-                "embeds": [
-                    "747159aa-c5ff-4162-abba-950ca0d76c24",
-                    "a1a12bcb-4347-4ea4-9157-cf71eee6fab0",
-                    "4a7e15da-6d1f-436f-b80e-f4b602e73676",
-                    "50ffdcc2-47f6-42ce-9f60-865f06fe65f3"
-                ],
+                "embeds": [],
                 "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
@@ -1194,6 +1208,15 @@
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
                 ]
             },
@@ -1213,6 +1236,15 @@
                     "b78ee57c-a314-4340-863f-93929301b4c8"
                 ],
                 "iscontainedinside": [
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
                     "89e00963-011a-4042-8bd9-65a7778ff788",
                     "89e00963-011a-4042-8bd9-65a7778ff788",
                     "89e00963-011a-4042-8bd9-65a7778ff788",
@@ -1507,11 +1539,10 @@
                     "height": 60
                 },
                 "position": {
-                    "x": -1250,
-                    "y": 1550
+                    "x": -2020,
+                    "y": 800
                 },
-                "z": 2,
-                "parent": "570c8e62-6914-4e6e-93d6-3795567ff895",
+                "z": 0,
                 "embeds": [],
                 "isassociatedwith": [
                     "87deb849-ef02-4779-a9cb-f898bd024777",
@@ -1690,6 +1721,7 @@
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
@@ -1933,6 +1965,15 @@
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556"
                 ]
             },
@@ -1942,11 +1983,10 @@
                     "height": 60
                 },
                 "position": {
-                    "x": -1320,
-                    "y": 1620
+                    "x": -2020,
+                    "y": 690
                 },
-                "z": 2,
-                "parent": "570c8e62-6914-4e6e-93d6-3795567ff895",
+                "z": 0,
                 "embeds": [],
                 "iscontainedinside": [
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
@@ -1958,11 +1998,10 @@
                     "height": 60
                 },
                 "position": {
-                    "x": -1480,
-                    "y": 910
+                    "x": -1490,
+                    "y": 490
                 },
-                "z": 2,
-                "parent": "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                "z": 0,
                 "embeds": [],
                 "isassociatedwith": [
                     "a1a12bcb-4347-4ea4-9157-cf71eee6fab0"
@@ -1974,11 +2013,10 @@
                     "height": 60
                 },
                 "position": {
-                    "x": -1390,
-                    "y": 940
+                    "x": -1400,
+                    "y": 490
                 },
-                "z": 2,
-                "parent": "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                "z": 0,
                 "embeds": [],
                 "iscontainedinside": [
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
@@ -1995,13 +2033,17 @@
                 },
                 "z": 1,
                 "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
-                "embeds": [
-                    "6cd71ed5-c4b4-4d13-85d1-571c987ca338",
-                    "89ef95e4-e8b5-4f29-81c4-f83d9866af4a",
-                    "c75a02bc-534d-4f83-a23d-145b1d838ba5",
-                    "b994eebe-5972-48c6-8362-8bac247c91f8"
-                ],
+                "embeds": [],
                 "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
@@ -2098,11 +2140,10 @@
                     "height": 60
                 },
                 "position": {
-                    "x": -1640,
-                    "y": 920
+                    "x": -1600,
+                    "y": 490
                 },
-                "z": 2,
-                "parent": "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                "z": 0,
                 "embeds": [],
                 "isassociatedwith": [
                     "7f5d5c64-4254-44ea-96ac-dcbe7eebd635",
@@ -2191,6 +2232,7 @@
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
+                    "b8cb06e1-0fb1-4689-972a-c4dfed8172e5",
                     "b8cb06e1-0fb1-4689-972a-c4dfed8172e5"
                 ]
             },
@@ -2200,11 +2242,10 @@
                     "height": 60
                 },
                 "position": {
-                    "x": -1510,
-                    "y": 1600
+                    "x": -1890,
+                    "y": 580
                 },
-                "z": 2,
-                "parent": "570c8e62-6914-4e6e-93d6-3795567ff895",
+                "z": 0,
                 "embeds": [],
                 "isassociatedwith": [
                     "6e35a079-e7a9-4679-8913-0f37f42823e8",
@@ -2252,6 +2293,7 @@
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895",
+                    "570c8e62-6914-4e6e-93d6-3795567ff895",
                     "570c8e62-6914-4e6e-93d6-3795567ff895"
                 ]
             },
@@ -2261,11 +2303,10 @@
                     "height": 60
                 },
                 "position": {
-                    "x": -1400,
-                    "y": 1550
+                    "x": -2020,
+                    "y": 580
                 },
-                "z": 2,
-                "parent": "570c8e62-6914-4e6e-93d6-3795567ff895",
+                "z": 0,
                 "embeds": [],
                 "isassociatedwith": [
                     "89ef95e4-e8b5-4f29-81c4-f83d9866af4a"
@@ -2462,7 +2503,7 @@
                     "Ref": "CoolRouteTable"
                 },
                 "SubnetId": {
-                    "Ref": "BlueSubnet"
+                    "Ref": "PublicSubnet"
                 }
             },
             "Metadata": {
@@ -2488,7 +2529,7 @@
                 },
                 "VPCZoneIdentifier": [
                     {
-                        "Ref": "BlueSubnet"
+                        "Ref": "PublicSubnet"
                     }
                 ],
                 "Tags": [
@@ -2518,7 +2559,7 @@
             "Properties": {
                 "VPCZoneIdentifier": [
                     {
-                        "Ref": "GreenSubnet"
+                        "Ref": "PublicSubnet"
                     }
                 ],
                 "LaunchConfigurationName": {
@@ -2706,10 +2747,10 @@
             "Properties": {
                 "Subnets": [
                     {
-                        "Ref": "BlueSubnet"
+                        "Ref": "PublicSubnet"
                     },
                     {
-                        "Ref": "GreenSubnet"
+                        "Ref": "PrivateSubnet"
                     }
                 ],
                 "Scheme": "internet-facing",
@@ -2730,10 +2771,10 @@
             "Properties": {
                 "Subnets": [
                     {
-                        "Ref": "GreenSubnet"
+                        "Ref": "PublicSubnet"
                     },
                     {
-                        "Ref": "BlueSubnet"
+                        "Ref": "PrivateSubnet"
                     }
                 ],
                 "Scheme": "internet-facing",
@@ -2795,22 +2836,7 @@
                 }
             }
         },
-        "GreenSubnet": {
-            "Type": "AWS::EC2::Subnet",
-            "Properties": {
-                "VpcId": {
-                    "Ref": "Vpc"
-                },
-                "CidrBlock": "10.0.0.64/26",
-                "AvailabilityZone": "us-east-1b"
-            },
-            "Metadata": {
-                "AWS::CloudFormation::Designer": {
-                    "id": "570c8e62-6914-4e6e-93d6-3795567ff895"
-                }
-            }
-        },
-        "BlueSubnet": {
+        "PublicSubnet": {
             "Type": "AWS::EC2::Subnet",
             "Properties": {
                 "VpcId": {
@@ -2822,6 +2848,21 @@
             "Metadata": {
                 "AWS::CloudFormation::Designer": {
                     "id": "b8cb06e1-0fb1-4689-972a-c4dfed8172e5"
+                }
+            }
+        },
+        "PrivateSubnet": {
+            "Type": "AWS::EC2::Subnet",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "Vpc"
+                },
+                "CidrBlock": "10.0.0.64/26",
+                "AvailabilityZone": "us-east-1b"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "570c8e62-6914-4e6e-93d6-3795567ff895"
                 }
             }
         }
