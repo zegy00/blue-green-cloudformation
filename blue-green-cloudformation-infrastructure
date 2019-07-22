@@ -671,6 +671,7 @@
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
                 ]
             },
@@ -687,6 +688,7 @@
                 "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                 "embeds": [],
                 "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
@@ -1274,6 +1276,7 @@
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db"
                 ]
             },
@@ -1293,6 +1296,7 @@
                     "b78ee57c-a314-4340-863f-93929301b4c8"
                 ],
                 "iscontainedinside": [
+                    "89e00963-011a-4042-8bd9-65a7778ff788",
                     "89e00963-011a-4042-8bd9-65a7778ff788",
                     "89e00963-011a-4042-8bd9-65a7778ff788",
                     "89e00963-011a-4042-8bd9-65a7778ff788",
@@ -2069,6 +2073,7 @@
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
+                    "5036dd5c-2c61-4a55-a067-fbbc8fc4a556",
                     "5036dd5c-2c61-4a55-a067-fbbc8fc4a556"
                 ]
             },
@@ -2130,6 +2135,7 @@
                 "parent": "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                 "embeds": [],
                 "iscontainedinside": [
+                    "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
                     "1c13ca9c-de45-45e1-a4ed-6e6ed6db41db",
@@ -3056,7 +3062,10 @@
                 "Fn::Join": [
                     "",
                     [
-                        "http://"
+                        "http://",
+                        {
+                            "Ref": "DomainName"
+                        }
                     ]
                 ]
             }
